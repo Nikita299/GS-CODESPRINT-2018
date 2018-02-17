@@ -1,0 +1,10 @@
+Equity Order Matching 
+
+In the stock trading world, the order book is the place 
+where all active orders (both Buy and Sell) are maintained in 
+certain priority for the purpose of matching buy and sell orders. 
+
+https://www.hackerrank.com/contests/gs-codesprint-2018/challenges/equity-order-matching/problem
+
+Run command:
+python main.py

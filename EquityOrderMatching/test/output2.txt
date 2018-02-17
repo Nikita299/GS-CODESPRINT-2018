@@ -1,0 +1,10 @@
+3 - Accept
+5 - Accept
+3 - AmendReject - 101 - Invalid amendment details
+9 - Accept
+9 - AmendReject - 101 - Invalid amendment details
+19 - Accept
+19 - AmendReject - 101 - Invalid amendment details
+5 - AmendReject - 101 - Invalid amendment details
+32 - Accept
+32 - AmendReject - 101 - Invalid amendment details
